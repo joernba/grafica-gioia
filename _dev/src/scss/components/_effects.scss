@@ -7,14 +7,23 @@
     transition: none;
   }
 }
-.indicators {
+.indicator {
   min-height: 210px;
   position: relative;
-  .indicator {
+  &__item {
     @extend %font-mono-regular;
     @include font-values(300,210);
     position: absolute;
     top: 0;
     left: 0;
+  }
+}
+
+.animation {
+  position: relative;
+  &__item {
+    @extend %font-mono-regular;
+    @include font-values(40,40);
+    position: absolute;
   }
 }
