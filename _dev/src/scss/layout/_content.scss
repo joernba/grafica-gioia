@@ -3,3 +3,14 @@
   background: $bg-color;
   padding: $pad;
 }
+.quote {
+  max-width: 420px;
+  width: 50%;
+  blockquote {
+    @extend %font-sans-regular;
+    margin: 0;
+  }
+  figcaption {
+    @extend %font-alt-italic;
+  }
+}

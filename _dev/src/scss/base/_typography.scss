@@ -13,7 +13,7 @@
 
 %font-alt-italic {
   font-family: $alt-font-stack;
-  font-style: normal;
+  font-style: italic;
   font-weight: 100;
   @include alias;
 }
