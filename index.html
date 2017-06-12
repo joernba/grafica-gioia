@@ -12,12 +12,20 @@ quote-publication: Massime e riflessioni, 1833
 
         <div class="col-8">
 
+          <div class="indicators">
+
           {% assign pages = site.pages | sort:"weight"  %}
           {% for page in site.pages %}
 
+          <div class="indicator" style="color: {{ page.color }}; z-index: {{ page.weight }};">
+
             {{ page.indicator }}
 
+          </div>
+
           {% endfor %}
+
+          </div>
 
         </div><div class="col-16">
 

@@ -4,6 +4,7 @@ title: Contatti
 permalink: /contatti/
 weight: 4
 indicator: C
+color: rgb(28, 27, 28)
 quote: "La libertà non sta nello scegliere tra bianco e nero, ma nel sottrarsi a questa scelta prescritta."
 quote-author: "Theodor Adorno"
 ---

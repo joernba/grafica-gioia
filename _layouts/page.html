@@ -9,12 +9,20 @@ layout: default
 
         <div class="col-8">
 
+          <div class="indicators">
+
           {% assign pages = site.pages | sort:"weight"  %}
           {% for page in site.pages %}
 
+          <div class="indicator">
+
             {{ page.indicator }}
 
+          </div>
+
           {% endfor %}
+
+          </div>
 
         </div><div class="col-16">
 

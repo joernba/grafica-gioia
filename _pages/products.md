@@ -4,6 +4,7 @@ title: Prodotti
 permalink: /prodotti/
 weight: 2
 indicator: P
+color: rgb(215, 2, 132)
 quote: "Rosso luminoso, magenta, scarlatto, pillarbox red, porpora, ciliegio, vinaccia... c’è sicuramente un rosso per tutti."
 quote-author: "Christian Dior"
 images:

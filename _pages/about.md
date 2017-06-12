@@ -4,6 +4,7 @@ title: Azienda
 permalink: /azienda/
 weight: 1
 indicator: A
+color: rgb(0, 164, 219)
 quote: "Una mattina, siccome uno di noi era senza nero, si servì del blu: era nato l’impressionismo."
 quote-author: "Pierre-Auguste Renoir"
 ---

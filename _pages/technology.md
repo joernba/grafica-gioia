@@ -4,6 +4,7 @@ title: Technologia
 permalink: /tecnologia/
 weight: 3
 indicator: T
+color: rgb(238, 227, 33)
 quote: "Ci sono pittori che dipingono il sole come una macchia gialla, ma ce ne sono altri
 che, grazie alla loro arte e intelligenza, trasformano una macchia gialla nel sole."
 quote-author: "Pablo Picasso (Massime e riflessioni, 1833)"
