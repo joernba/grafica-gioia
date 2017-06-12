@@ -1,0 +1,109 @@
+// Sections
+.section {
+  @include clearfix;
+  margin: 0 auto;
+  padding: $pad*2 0;
+}
+
+/**
+ * Main content containers
+ * 1. Make the container full-width with a maximum width
+ * 2. Center it in the viewport
+ * 3. Leave some space on the edges, especially valuable on small screens
+ */
+.container {
+  max-width: $max-width; /* 1 */
+  margin-left: auto; /* 2 */
+  margin-right: auto; /* 2 */
+  padding-left: $pad*2; /* 3 */
+  padding-right: $pad*2; /* 3 */
+}
+
+/// Grids
+// inspiered bay: https://github.com/paulcpederson/inline-block-grid
+/* Usage:
+  <div class="grid">
+  <div class="col-3">
+    ... stuff
+    </div>
+    <div class="col-9">
+    ... more stuff
+    </div>
+  </div>
+*/
+.grid {
+  text-align: left;
+  position: relative;
+  display: block;
+  &.align-center { text-align: center; }
+  &.align-right  { text-align: right; }
+  &.align-left  { text-align: left; }
+  &--gutter {
+    margin-left: -$gutter;
+    margin-right: -$gutter;
+  }
+}
+[class*="col-"] {
+  letter-spacing: normal;
+  display: inline-block;
+  float: none;
+  text-align: left;
+  vertical-align: top;
+  box-sizing: border-box;
+  margin-right: -4px;
+  &.align-bottom {
+    vertical-align: bottom;
+  }
+  &.align-middle {
+    vertical-align: middle;
+  }
+  &.gutter {
+    padding-left: $gutter;
+    padding-right: $gutter;
+  }
+  &.table-col {
+    display: inline-table;
+    vertical-align: initial;
+  }
+}
+
+@function col ($i) {
+  @return (($i / $col-count) * 100%);
+}
+
+@for $n from 1 through $col-count {
+  .col-#{$n} { width: col($n); }
+  .push-#{$n}    { margin-left: calc(#{col($n)} - 4px); }
+  .pull-#{$n}   { margin-right: calc(#{col($n)} - 4px); }
+}
+
+@include respond-to('medium') {
+  @for $i from 1 through $col-count {
+    .medium-col-#{$i} { width: col($i); }
+  }
+  @for $i from 0 through $col-count {
+    .medium-push-#{$i}  { margin-left: col($i); }
+    .medium-pull-#{$i} { margin-right: col($i); }
+  }
+}
+
+@include respond-to('small') {
+  @for $i from 1 through $col-count {
+    .small-col-#{$i} { width: col($i); }
+  }
+  @for $i from 0 through $col-count {
+    .small-push-#{$i}  { margin-left: col($i); }
+    .small-pull-#{$i} { margin-right: col($i); }
+  }
+}
+
+@include respond-to('mob') {
+  @for $i from 1 through $col-count {
+    .mob-col-#{$i} { width: col($i); }
+  }
+  @for $i from 0 through $col-count {
+    .mob-push-#{$i}  { margin-left: col($i); }
+    .mob-pull-#{$i} { margin-right: col($i); }
+  }
+}
+

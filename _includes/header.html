@@ -1,0 +1,23 @@
+<header class="header cf">
+
+      <nav class="nav nav__main" role="navigation">
+        {% assign pages = site.pages | sort:"weight"  %}
+        <ul>
+          {% for p in pages %}
+            {% unless p.exclude_from_nav %}
+              {% if p.title %}
+              <li{% if p.url == page.url %} class="current"{% endif %}><a href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a></li>
+              <!-- whitespace in inline-block elements: hover was underlining whitespace -->
+              {% endif %}
+            {% endunless %}
+          {% endfor %}
+        </ul>
+      </nav>
+
+    <div class="logo">
+
+      <a class="logo" href="{{ site.baseurl }}/"><img src="/assets/images/logo.svg"></a>
+
+    </div>
+
+</header>

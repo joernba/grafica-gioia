@@ -1,0 +1,45 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles related to the button component.
+// -----------------------------------------------------------------------------
+th {
+  font-weight: 600;
+}
+
+tr {
+  &:hover {
+    background: rgb(226, 226, 226);
+    a {
+      color: $black;
+      border: none;
+    }
+  }
+}
+
+td,
+th {
+  width: 21%;
+  a {
+    border: none;
+    display: block;
+    padding: $pad/4 0 $pad/4 $pad * 2;
+  }
+  &:first-of-type, &:last-of-type {
+    width: 8%;
+  }
+  &:last-of-type {
+    a {
+      padding-right: $pad * 2;
+      padding-left: 0;
+    }
+  }
+}
+
+thead th {
+  padding-bottom: .35 * $pad;
+  text-align: left;
+}
+
+table {
+  width: 100%;
+  overflow-x: auto;
+}

@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+  <article class="content">
+    <div class="page-content">
+
+      <div class="grid">
+
+        <div class="col-8">
+
+          {% assign pages = site.pages | sort:"weight"  %}
+          {% for page in site.pages %}
+
+            {{ page.indicator }}
+
+          {% endfor %}
+
+        </div>
+
+        <div class="col-16">
+
+          <figure class="quote">
+            <blockquote>{{ page.quote }}</blockquote>
+            <figcaption>{{ page.quote-author }}{% if page.quote-publication %}, <cite>{{ page.quote-publication }}</cite>{% endif %}</figcaption>
+          </figure>
+
+        </div>
+
+      </div>
+
+      <div class="animation">
+
+        <div class="animation__item">
+
+          {{ page.content }}
+
+        </div>
+
+      </div>
+
+    </div>
+  </article>

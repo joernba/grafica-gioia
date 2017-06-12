@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body class="page">
+  <script>document.body.className += ' fade-out';</script>
+  <div class="container">
+    {% include header.html %}
+
+    <div class="main">
+      {{ content }}
+    </div>
+
+    {% include footer.html %}
+  </div>
+
+  {% include js.html %}
+
+{% if jekyll.environment == "production" %}
+  {% include analytics.html %}
+{% endif %}
+
+</body>
+
+</html>

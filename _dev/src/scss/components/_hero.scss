@@ -1,0 +1,5 @@
+.hero {
+  @include clearfix;
+  margin: 0 auto;
+  padding: $pad*2 0;
+}

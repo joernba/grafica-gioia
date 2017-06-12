@@ -1,0 +1,9 @@
+// Fade in effect for pages
+.page {
+    opacity: 1;
+    transition: 1s opacity;
+    &.fade-out {
+    opacity: 0;
+    transition: none;
+  }
+}

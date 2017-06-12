@@ -1,0 +1,19 @@
+.background--light {
+  background: $light-gray;
+  color: $text-color;
+}
+.background--medium {
+  background: $mid-gray;
+  color: $dark-gray;
+}
+.background--dark {
+  background: $dark-gray;
+  color: $light-gray;
+}
+.background--highlight {
+  background: $highlight-color;
+  color: $dark-gray;
+}
+figure {
+  margin: 0;
+}

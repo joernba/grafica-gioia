@@ -1,0 +1,83 @@
+/// Regular font family
+/// @type List
+$sans-font-stack: 'Julius Sans One', sans-serif !default;
+
+/// alt sans font stack
+
+$alt-font-stack: 'Philosopher', sans-serif !default;
+
+/// monospace font family
+/// @type List
+$mono-font-stack: 'Cutive Mono', monospace !default;
+
+
+
+/// Main brand color
+/// @type Color
+$brand-color: rgb(150, 150, 150) !default;
+
+/// Light gray
+/// @type Color
+$light-gray: rgb(230, 230, 230) !default;
+
+/// Medium gray
+/// @type Color
+$mid-gray: rgb(150, 150, 150) !default;
+
+/// Dark gray
+/// @type Color
+$dark-gray: rgb(76, 76, 76) !default;
+
+/// Highlight color
+$highlight-color: rgb(80, 80, 87) !default;
+
+/// black & White
+$black: rgb(0, 0, 0) !default;
+$white: rgb(255, 255, 255) !default;
+
+/// Background-color
+$bg-color: rgb(233, 235, 232);
+
+/// Copy text color
+/// @type Color
+$text-color: $black;
+
+
+/// Standard padding
+
+$pad: 1rem !default;
+
+
+
+/// Container's maximum width
+/// @type Length
+$max-width: 2400px !default;
+
+
+
+
+
+/// Breakpoints map
+/// @prop {String} keys - Keys are identifiers mapped to a given length
+/// @prop {Map} values - Values are actual breakpoints expressed in pixels
+/// @see {mixin} respond-to
+$breakpoints: (
+  'mob': (max-width: 586px),
+  'small': (max-width: 780px),
+  'medium': (max-width: 1150px),
+  'wide': (max-width: 2000px)
+) !default;
+
+
+/// Grid variables
+
+$col-count: 24 !default;
+$gutter:    2rem !default;
+
+
+
+/// Relative or absolute URL where all assets are served from
+/// @type String
+/// @example scss - When using a CDN
+///   $base-url: 'http://cdn.example.com/assets/';
+$base-url: '/assets/' !default;

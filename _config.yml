@@ -1,0 +1,24 @@
+# Site settings
+version: 1.0
+
+title: GRAFICA GIOIA SRL
+email: me@joern.im
+description: "Siamo un’azienda grafica e realizziamo stampati di qualità per la pubblicità e la comunicazione."
+baseurl: "" # the subpath of your site, e.g. /blog/
+permalink: /:categories/:title/
+url: "https://www.grafica-gioia.it" # the base hostname & protocol for your site
+collections:
+  - pages
+# Build settings
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - README.md
+  - CNAME
+  - node_modules
+  - _dev
+include:
+  - _redirects
+  - _pages

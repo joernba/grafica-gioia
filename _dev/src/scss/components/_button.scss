@@ -1,0 +1,24 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles related to the button component.
+// -----------------------------------------------------------------------------
+.btn {
+  letter-spacing: 0.04em;
+  display: block;
+  text-decoration: none;
+  width: 185px;
+  margin: auto;
+  height: 40px;
+  line-height: 38px;
+  text-align: center;
+  transition: all .6s ease-in-out;
+  @include respond-to('mob') {
+    width: 120px;
+    margin: auto;
+    height: 30px;
+    line-height: 27px;
+  }
+  &:hover {
+     background: #FFF;
+     color: #000;
+  }
+}
