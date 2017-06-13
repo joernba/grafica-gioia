@@ -36,5 +36,19 @@ layout: default
 
       </div>
 
+      {% if page.images %}
+
+        <div class="u-no-bullets">
+
+          {% for image in page.images %}
+
+            <a class="gallery" rel="gallery" href="/assets/images/medium/{{ image }}">{% if forloop.index0 == 0 %}<img src="/assets/images/medium/{{ image }}">{% endif %}</a>
+
+          {% endfor %}
+
+        </div>
+
+      {% endif %}
+
     </div>
   </article>

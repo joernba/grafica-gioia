@@ -9,6 +9,8 @@ $(window).on("resize", function () {
   $(".js-assign-height").height(h);
 // Invoke the resize event immediately
 }).resize();
+// Colorbox stuff
+$(".gallery").colorbox({rel:'gallery', transition: 'fade', maxWidth: '95%', maxHeight: '95%', slideshow:false, previous:'prev', next: 'next'});
 // Typed.js stuff
 if(window.__isFirstAnimation !== true){
   window.__isFirstAnimation = true;
