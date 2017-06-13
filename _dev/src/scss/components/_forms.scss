@@ -73,9 +73,13 @@ input[type="file"],
 input[type="datetime-local"],
 select,
 textarea {
-  border: 1px solid $dark-gray;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 1px solid $dark-gray;
   margin-bottom: $pad;
   padding: .3 * $pad .35 * $pad;
+  width: 90%;
 }
 
 input[type="checkbox"],
