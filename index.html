@@ -38,14 +38,14 @@ quote-publication: Massime e riflessioni, 1833
 
       </div>
 
-      <div class="animation js-assign-height">
+      <div class="animation js-assign-height js-typed">
 
         {% assign pages = site.pages | sort:"weight"  %}
         {% for page in site.pages %}
 
-        <div class="animation__item u-upper js-height" style="color: {{ page.color }}; z-index: {{ page.weight }};">
+        <div class="animation__item u-upper js-height js-typed-item" style="color: {{ page.color }}; z-index: {{ page.weight }};">
 
-          {{ page.content }}
+            {{ page.content }}
 
         </div>
 

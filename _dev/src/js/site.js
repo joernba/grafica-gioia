@@ -9,3 +9,37 @@ $(window).on("resize", function () {
   $(".js-assign-height").height(h);
 // Invoke the resize event immediately
 }).resize();
+// Typed.js stuff
+if(window.__isFirstAnimation !== true){
+  window.__isFirstAnimation = true;
+  $('.js-typed')[0].style.display = 'none';
+  setTimeout(function(){
+      function setUnsaveable (node) {
+            for (var i = 0; i < node.childNodes.length; i++) {
+              var child = node.childNodes[i];
+            }
+        }
+
+       var clone = $('.js-typed')[0].cloneNode(true);
+
+       $(clone).insertAfter($('.js-typed'));
+       clone.style.display = '';
+
+       $(".js-typed-item", clone).each(function(index, item){
+
+         var string = item.innerHTML;
+         item.innerHTML = '';
+
+         $(item).typed({
+           strings: [string],
+           contentType: 'html',
+           startDelay: index * 2000,
+           showCursor: false,
+           typeSpeed: 10
+         });
+
+      });
+  }, 1500);
+} else {
+  $('.js-typed')[0].style.display = '';
+}
