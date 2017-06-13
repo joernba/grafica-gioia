@@ -9,20 +9,7 @@ layout: default
 
         <div class="col-8 align-middle">
 
-          <div class="indicator">
-
-          {% assign pages = site.pages | sort:"weight"  %}
-          {% for page in site.pages %}
-
-          <div class="indicator__item" style="color: {{ page.color }}; z-index: {{ page.weight }};">
-
-            {{ page.indicator }}
-
-          </div>
-
-          {% endfor %}
-
-          </div>
+          {% include indicator.html %}
 
         </div><div class="col-16 align-middle">
 

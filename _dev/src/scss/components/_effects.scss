@@ -16,6 +16,12 @@
     position: absolute;
     top: 0;
     left: 0;
+    &:not(.current) {
+      opacity: 0.1;
+    }
+    .home & {
+      opacity: 1;
+    }
   }
 }
 

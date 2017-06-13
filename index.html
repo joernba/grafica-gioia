@@ -5,27 +5,14 @@ quote-author: "J. W. Goethe"
 quote-publication: Massime e riflessioni, 1833
 ---
 
-  <article class="content">
+  <article class="content home">
     <div class="page-content">
 
       <div class="grid">
 
         <div class="col-8 align-middle">
 
-          <div class="indicator">
-
-          {% assign pages = site.pages | sort:"weight"  %}
-          {% for page in site.pages %}
-
-          <div class="indicator__item" style="color: {{ page.color }}; z-index: {{ page.weight }};">
-
-            {{ page.indicator }}
-
-          </div>
-
-          {% endfor %}
-
-          </div>
+          {% include indicator.html %}
 
         </div><div class="col-16 align-middle">
 

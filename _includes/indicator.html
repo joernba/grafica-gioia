@@ -1,0 +1,14 @@
+<div class="indicator">
+
+  {% assign pages = site.pages | sort:"weight"  %}
+  {% for p in site.pages %}
+
+  <div class="indicator__item{% if p.url == page.url %} current{% endif %}" style="color: {{ p.color }}; z-index: {{ p.weight }};">
+
+    {{ p.indicator }}
+
+  </div>
+
+  {% endfor %}
+
+</div>
