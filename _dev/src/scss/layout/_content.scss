@@ -14,3 +14,12 @@
     @extend %font-alt-italic;
   }
 }
+/* Map */
+.map {
+  width: 100%;
+  height: 500px;
+  border: 6px solid #ffffff;
+}
+.gm-style img {
+  max-width: none;
+}

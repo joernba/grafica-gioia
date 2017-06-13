@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: contact
 title: Contatti
 permalink: /contatti/
 weight: 4
