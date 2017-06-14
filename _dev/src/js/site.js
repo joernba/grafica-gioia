@@ -35,9 +35,9 @@ if(window.__isFirstAnimation !== true){
          $(item).typed({
            strings: [string],
            contentType: 'html',
-           startDelay: index * 2000,
+           startDelay: index * 1000,
            showCursor: false,
-           typeSpeed: 10
+           typeSpeed: -60
          });
 
       });
