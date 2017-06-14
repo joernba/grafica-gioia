@@ -23,7 +23,7 @@ html {
  * Basic styles for links
  */
 a {
-  color: $mid-gray;
+  color: $dark-gray;
   text-decoration: none;
   @include on-event {
     color: $brand-color;

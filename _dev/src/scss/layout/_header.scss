@@ -6,7 +6,8 @@
   text-align: right;
   .logo {
     display: inline-block;
-    max-width: 90px;
+    margin-left: $pad*3;
+    max-width: 75px;
     width: 25%;
     vertical-align: middle;
     a {
