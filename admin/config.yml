@@ -15,5 +15,8 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Indicator", name: "indicator", widget: "string"}
       - {label: "Quote", name: "quote", widget: "string"}
       - {label: "Quote Author", name: "quote-author", widget: "string"}
+      - {label: "Color", name: "color", widget: "hidden"}
+      - {label: "Permalink", name: "permalink", widget: "hidden"}
+      - {label: "Layout", name: "layout", widget: "hidden"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
