@@ -40,3 +40,12 @@
     }
   }
 }
+.gallery__wrapper {
+  a {
+    @extend %font-mono-regular;
+    @include font-values(40,40);
+    &:hover {
+      border: none;
+    }
+  }
+}
