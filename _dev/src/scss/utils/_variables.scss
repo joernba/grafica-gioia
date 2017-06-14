@@ -11,7 +11,6 @@ $alt-font-stack: 'Philosopher', sans-serif !default;
 $mono-font-stack: 'Cutive Mono', monospace !default;
 
 
-
 /// Main brand color
 /// @type Color
 $brand-color: rgb(150, 150, 150) !default;
@@ -48,13 +47,9 @@ $text-color: $black;
 $pad: 1rem !default;
 
 
-
 /// Container's maximum width
 /// @type Length
 $max-width: 2400px !default;
-
-
-
 
 
 /// Breakpoints map
@@ -73,7 +68,6 @@ $breakpoints: (
 
 $col-count: 24 !default;
 $gutter:    2rem !default;
-
 
 
 /// Relative or absolute URL where all assets are served from
