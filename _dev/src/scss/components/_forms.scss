@@ -1,6 +1,9 @@
 // -----------------------------------------------------------------------------
 // This file contains all styles related to the button component.
 // -----------------------------------------------------------------------------
+form {
+  max-width: 510px;
+}
 input,
 textarea,
 select,
@@ -45,6 +48,7 @@ button {
 input[type="submit"],
 button[type="submit"] {
   background: $highlight-color;
+  border: 1px solid $highlight-color;
   color: $white;
 
   &:hover {
@@ -73,6 +77,7 @@ input[type="file"],
 input[type="datetime-local"],
 select,
 textarea {
+  background-color: transparent;
   border-top: none;
   border-left: none;
   border-right: none;
