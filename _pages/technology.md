@@ -9,4 +9,4 @@ quote: "Ci sono pittori che dipingono il sole<br>come una macchia gialla, ma ce 
 quote-author: "Pablo Picasso (Massime e riflessioni, 1833)"
 ---
 
-Investimenti continui e sempre mirati all’innovaz ione tecnologica.Particolare cura è dedicata alla stampa offset, con la nuova Komori Lithrone 70x100 a 5 colori+vernice, per una sempre più alta qualità di stampa in tempi di lavorazione ridotti, oltre alla valorizzazione degli stampati con le diverse verniciature all’acqua opache, lucide, metalizzate, perlescenti, soft touch, dripoff.
+Investimenti continui e sempre mirati all’innovazione tecnologica. Particolare cura è dedicata alla stampa offset, con la nuova Komori Lithrone 70x100 a 5 colori+vernice, per una sempre più alta qualità di stampa in tempi di lavorazione ridotti, oltre alla valorizzazione degli stampati con le diverse verniciature all’acqua opache, lucide, metalizzate, perlescenti, soft touch, dripoff.
