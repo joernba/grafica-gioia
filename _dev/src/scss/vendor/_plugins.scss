@@ -21,7 +21,7 @@
     Change the following styles to modify the appearance of Colorbox.  They are
     ordered & tabbed in a way that represents the nesting of the generated HTML.
 */
-#cboxOverlay{background: #000; opacity: 0.8; filter: alpha(opacity = 80);}
+#cboxOverlay{background: #000; opacity: 0.8 !important; filter: alpha(opacity = 80);}
 #colorbox{outline: 0;}
     #cboxTopLeft{width: 25px; height: 25px;}
     #cboxTopCenter{height: 25px;}
