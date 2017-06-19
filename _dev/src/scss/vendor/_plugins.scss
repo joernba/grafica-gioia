@@ -36,7 +36,7 @@
         #cboxError{padding: 50px; border: 1px solid #ccc;}
         #cboxLoadedContent{margin-bottom: 30px;}
         #cboxTitle{position: absolute; bottom: 0px; left: 0; text-align: center; width: 100%; color: #999;}
-        #cboxCurrent{position: absolute; bottom: 0px; left: 100px; color: #999;}
+        #cboxCurrent{position: absolute; bottom: 0px; left: 120px; color: #fff;}
 
         /* these elements are buttons, and may need to have additional styles reset to avoid unwanted base styles */
         #cboxPrevious, #cboxNext, #cboxSlideshow, #cboxClose {border: 0; padding: 0; margin: 0; overflow: visible; width: auto; background: none; }
@@ -44,10 +44,10 @@
         /* avoid outlines on : active (mouseclick), but preserve outlines on : focus (tabbed navigating) */
         #cboxPrevious:active, #cboxNext:active, #cboxSlideshow:active, #cboxClose:active {outline: 0;}
 
-        #cboxSlideshow{position: absolute; bottom: 0px; right: 42px; color: #444;}
-        #cboxPrevious{position: absolute; bottom: 0px; left: 0; color: #444;}
-        #cboxNext{position: absolute; bottom: 0px; left: 63px; color: #444;}
-        #cboxClose{position: absolute; bottom: 0; right: 0; display: block; color: #444;}
+        #cboxSlideshow{position: absolute; bottom: 0px; right: 42px; color: #fff;}
+        #cboxPrevious{position: absolute; bottom: 0px; left: 0; color: #fff;}
+        #cboxNext{position: absolute; bottom: 0px; left: 63px; color: #fff;}
+        #cboxClose{position: absolute; bottom: 0; right: 0; display: block; color: #fff;}
 
 /*
   The following fixes a problem where IE7 and IE8 replace a PNG's alpha transparency with a black fill
