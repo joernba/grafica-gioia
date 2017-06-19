@@ -41,9 +41,11 @@
   }
 }
 .gallery__wrapper {
+  margin-top: $pad*3;
   a {
     @extend %font-mono-regular;
     @include font-values(40,40);
+    text-decoration: underline;
     &:hover {
       border: none;
     }
