@@ -42,7 +42,7 @@ layout: default
 
           {% for image in page.images %}
 
-            <a style="color: {{ page.color }}; z-index: {{ page.weight }};" class="gallery" rel="gallery" href="/assets/images/medium/{{ image }}">{% if forloop.index0 == 0 %}Apri la gallery delle nostre realizzazioni.{% endif %}</a>
+            <a style="color: {{ page.color }}; border-bottom: 2px solid {{ page.color }}; z-index: {{ page.weight }};" class="gallery" rel="gallery" href="/assets/images/medium/{{ image }}">{% if forloop.index0 == 0 %}Apri la gallery delle nostre realizzazioni{% endif %}</a>
 
           {% endfor %}
 
