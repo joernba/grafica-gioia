@@ -10,7 +10,7 @@ quote-author: "Theodor Adorno"
 ---
 
 - Grafica Gioia SRL
-- V.LE C. Cattaneo 8C
+- V.LE Cesare Cattaneo 8C
 - 22063 Cantù (CO)
 - TEL +39 031 714604
 - FAX +39 031 706673
