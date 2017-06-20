@@ -27,6 +27,9 @@
 
 .animation {
   position: relative;
+  p {
+    margin-bottom: 0;
+  }
   &__item {
     @extend %font-mono-regular;
     @include font-values(37,40);
