@@ -37,4 +37,6 @@ images:
   - img-27.jpg
 ---
 
-Stampati per vari settori merceologici. cataloghi e brochure/libri/volumi d’arte/riviste/monografie e company profile/depliants, volantini e cartoline /listini/immagine coordinata/stampati commerciali /calendari/cartellette box e astucci.Una selezione di lavori curati nei minimi dettagli, con anche particolari lavorazioni di nobilitazione.
+Stampati per vari settori merceologici. cataloghi e brochure/libri/volumi d’arte/riviste/monografie e company profile/depliants, volantini e cartoline /listini/immagine coordinata/stampati commerciali /calendari/cartellette box e astucci.
+
+Una selezione di lavori curati nei minimi dettagli, con anche particolari lavorazioni di nobilitazione.
