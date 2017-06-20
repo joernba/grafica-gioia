@@ -29,7 +29,7 @@
   position: relative;
   &__item {
     @extend %font-mono-regular;
-    @include font-values(40,40);
+    @include font-values(37,40);
     position: absolute;
     ul {
       list-style: none;
