@@ -5,22 +5,7 @@ layout: default
   <article class="content">
     <div class="page-content">
 
-      <div class="grid">
-
-        <div class="col-12 medium-col-8 small-col-24 align-middle">
-
-          {% include indicator.html %}
-
-        </div><div class="col-12 medium-col-16 small-col-24 align-middle">
-
-          <figure class="quote">
-            <blockquote class="u-upper"><p>{{ page.quote }}</p></blockquote>
-            <figcaption>{{ page.quote-author }}{% if page.quote-publication %}, <cite>{{ page.quote-publication }}</cite>{% endif %}</figcaption>
-          </figure>
-
-        </div>
-
-      </div>
+      {% include top.html %}
 
       <div class="grid">
 
