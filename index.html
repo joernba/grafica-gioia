@@ -30,11 +30,15 @@ quote-publication: Massime e riflessioni, 1833
         {% assign pages = site.pages | sort:"weight"  %}
         {% for page in site.pages %}
 
+        {% unless page.exclude_from_lists %}
+
         <div class="animation__item u-upper js-height js-typed-item" style="color: {{ page.color }}; z-index: {{ page.weight }};">
 
             {{ page.content }}
 
         </div>
+
+        {% endunless %}
 
         {% endfor %}
 

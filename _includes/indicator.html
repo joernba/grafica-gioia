@@ -3,11 +3,15 @@
   {% assign pages = site.pages | sort:"weight"  %}
   {% for p in site.pages %}
 
+  {% unless p.exclude_from_lists %}
+
   <div class="indicator__item{% if p.url == page.url %} current{% endif %}" style="color: {{ p.color }}; z-index: {{ p.weight }};">
 
     {{ p.indicator }}
 
   </div>
+
+  {% endunless %}
 
   {% endfor %}
 
