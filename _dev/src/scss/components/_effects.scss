@@ -27,6 +27,9 @@
 
 .animation {
   position: relative;
+  @include respond-to('medium') {
+    margin-top: $pad;
+  }
   p {
     margin-bottom: 0;
   }
@@ -34,6 +37,12 @@
     @extend %font-mono-regular;
     @include font-values(37,40);
     position: absolute;
+    @include respond-to('small') {
+      @include font-values(27,30);
+    }
+    @include respond-to('mob') {
+      @include font-values(15,18);
+    }
     ul {
       list-style: none;
       padding: 0;
@@ -48,6 +57,12 @@
   a {
     @extend %font-mono-regular;
     @include font-values(40,40);
+    @include respond-to('small') {
+      @include font-values(27,30);
+    }
+    @include respond-to('mob') {
+      @include font-values(15,18);
+    }
     &:hover {
       border: none;
     }
