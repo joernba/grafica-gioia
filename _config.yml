@@ -2,8 +2,9 @@
 version: 1.0
 
 title: GRAFICA GIOIA SRL
-email: me@joern.im
-description: "Siamo un’azienda grafica e realizziamo stampati di qualità per la pubblicità e la comunicazione."
+email: info@graficagioia.it
+tel: "+39 031 714604"
+description: "Siamo un’azienda grafica e realizziamo stampati di qualità per la pubblicità e la comunicazione. Offriamo un servizio di qualità personalizzata."
 baseurl: "" # the subpath of your site, e.g. /blog/
 permalink: /:categories/:title/
 url: "https://www.grafica-gioia.it" # the base hostname & protocol for your site
