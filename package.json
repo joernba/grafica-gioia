@@ -24,7 +24,7 @@
   },
   "scripts": {
     "clean": "rimraf assets/{css/*,js/*,images/*}",
-    "autoprefixer": "postcss -u autoprefixer -r assets/css/*",
+    "autoprefixer": "postcss --no-map -u autoprefixer -r assets/css/*",
     "scss": "node-sass --output-style compressed -o assets/css _dev/src/scss",
     "lint": "eslint _dev/src/js || true",
     "lint-scss": "stylelint _dev/src/scss/**/*.scss --syntax scss || true",
