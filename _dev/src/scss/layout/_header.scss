@@ -12,6 +12,11 @@
     display: inline-block;
     width: 25%;
     vertical-align: middle;
+    img {
+      display: block;
+      float: right;
+      max-width: 210px;
+    }
     @include respond-to('small') {
       margin: 0 auto $pad auto;
       order: 1;
