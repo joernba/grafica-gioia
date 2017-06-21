@@ -3,10 +3,22 @@
 // -----------------------------------------------------------------------------
 .header {
   padding: $pad 0;
+  @include respond-to('small') {
+    display: flex;          /* Magic begins */
+    flex-direction: column;
+    text-align: center;
+  }
   .logo {
     display: inline-block;
     width: 25%;
     vertical-align: middle;
+    @include respond-to('small') {
+      margin: 0 auto $pad auto;
+      order: 1;
+    }
+     @include respond-to('mob') {
+        width: 75%;
+      }
     a {
       border: none;
       text-decoration: none;

@@ -58,8 +58,8 @@ $max-width: 2400px !default;
 /// @see {mixin} respond-to
 $breakpoints: (
   'mob': (max-width: 586px),
-  'small': (max-width: 780px),
-  'medium': (max-width: 1150px),
+  'small': (max-width: 900px),
+  'medium': (max-width: 1110px),
   'wide': (max-width: 2000px)
 ) !default;
 
