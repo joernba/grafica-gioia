@@ -8,6 +8,14 @@
 }
 .quote {
   width: 510px;
+  @include respond-to('small') {
+    @include font-values(12,15);
+    max-width: 510px;
+    width: 100%;
+  }
+  @include respond-to('mob') {
+    @include font-values(9,12);
+  }
   blockquote {
     @extend %font-sans-regular;
     margin: 0;
