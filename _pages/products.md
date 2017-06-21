@@ -35,6 +35,38 @@ images:
   - img-25.jpg
   - img-26.jpg
   - img-27.jpg
+  - img-28.jpg
+  - img-29.jpg
+  - img-30.jpg
+  - img-31.jpg
+  - img-32.jpg
+  - img-33.jpg
+  - img-34.jpg
+  - img-35.jpg
+  - img-36.jpg
+  - img-37.jpg
+  - img-38.jpg
+  - img-39.jpg
+  - img-40.jpg
+  - img-41.jpg
+  - img-42.jpg
+  - img-43.jpg
+  - img-44.jpg
+  - img-45.jpg
+  - img-46.jpg
+  - img-47.jpg
+  - img-48.jpg
+  - img-49.jpg
+  - img-50.jpg
+  - img-51.jpg
+  - img-52.jpg
+  - img-53.jpg
+  - img-54.jpg
+  - img-55.jpg
+  - img-56.jpg
+  - img-57.jpg
+  - img-58.jpg
+  - img-59.jpg
 ---
 
 Stampati per vari settori merceologici. cataloghi e brochure/libri/volumi d’arte/riviste/monografie e company profile/depliants, volantini e cartoline /listini/immagine coordinata/stampati commerciali /calendari/cartellette box e astucci.
