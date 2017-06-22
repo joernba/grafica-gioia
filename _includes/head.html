@@ -22,4 +22,23 @@
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+
+
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org/",
+      "@type": "Organization",
+      "name": "Grafica Gioia SRL",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "V.LE Cesare Cattaneo 8/C",
+        "addressLocality": "Cantù",
+        "addressRegion": "Como",
+        "postalCode": "22063"
+      },
+      "telephone": "+39 031 714604"
+    }
+  </script>
+
+
 </head>
