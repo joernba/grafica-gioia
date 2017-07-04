@@ -8,6 +8,14 @@ color: rgb(215, 2, 132)
 quote: "Rosso luminoso, magenta, scarlatto,<br>pillarbox red, porpora, ciliegio, vinaccia...<br>c’è sicuramente un rosso per tutti."
 quote-author: "Christian Dior"
 images:
+  - img-60.jpg
+  - img-61.jpg
+  - img-62.jpg
+  - img-63.jpg
+  - img-64.jpg
+  - img-65.jpg
+  - img-66.jpg
+  - img-67.jpg
   - img-01.jpg
   - img-02.jpg
   - img-03.jpg
