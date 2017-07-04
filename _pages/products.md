@@ -12,7 +12,6 @@ images:
   - img-02.jpg
   - img-03.jpg
   - img-04.jpg
-  - img-06.jpg
   - img-08.jpg
   - img-09.jpg
   - img-10.jpg
@@ -57,6 +56,7 @@ images:
   - img-49.jpg
   - img-50.jpg
   - img-51.jpg
+  - img-06.jpg
   - img-52.jpg
   - img-53.jpg
   - img-54.jpg
