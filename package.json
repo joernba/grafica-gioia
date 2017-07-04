@@ -28,7 +28,7 @@
     "scss": "node-sass --output-style compressed -o assets/css _dev/src/scss",
     "lint": "eslint _dev/src/js || true",
     "lint-scss": "stylelint _dev/src/scss/**/*.scss --syntax scss || true",
-    "uglify": "mkdirp assets/js -p && uglifyjs _dev/src/js/*.js -m -o assets/js/app.js && uglifyjs _dev/src/js/*.js -m -c -o assets/js/app.min.js",
+    "uglify": "mkdirp assets/js -p && uglifyjs _dev/src/js/*.js -m -o assets/js/app.js && uglifyjs _dev/src/js/*.js -m -c -o assets/js/app.min.js && uglifyjs _dev/src/static_js/cookiebanner.js -m -o assets/js/cookiebanner.js",
     "resize:medium": "mkdirp assets/images/medium -p && sharp -i _dev/src/images/pages/**/*.* -o assets/images/medium -q 93 resize 1000 1000 --max",
     "imagemin": "imagemin _dev/src/images/{*,**/*,**/**/*} -o assets/images",
     "serve:jekyll": "jekyll serve",
