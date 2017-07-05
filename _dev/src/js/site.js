@@ -11,6 +11,7 @@ $(window).on("resize", function () {
 }).resize();
 // Colorbox stuff
 $(".gallery").colorbox({rel:'gallery', transition: 'elastic', maxWidth: '95%', maxHeight: '95%', slideshow:false, previous:'prev', next: 'next'});
+$(".lightbox-text").colorbox({maxWidth: '95%', maxHeight: '95%', slideshow:false});
 // Typed.js stuff
 if(window.__isFirstAnimation !== true){
   window.__isFirstAnimation = true;
