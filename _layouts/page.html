@@ -7,20 +7,6 @@ layout: default
 
       {% include top.html %}
 
-      <div class="animation js-assign-height js-typed">
-
-        <div class="animation__item u-upper js-height js-typed-item" style="color: {{ page.color }}; z-index: {{ page.weight }};">
-
-          <div class="animation__string js-typed-string">
-
-            {{ content }}
-
-          </div>
-
-        </div>
-
-      </div>
-
       {% if page.images %}
 
         <div class="gallery__wrapper u-no-bullets">
@@ -34,6 +20,20 @@ layout: default
         </div>
 
       {% endif %}
+
+      <div class="animation js-assign-height js-typed">
+
+        <div class="animation__item u-upper js-height js-typed-item" style="color: {{ page.color }}; z-index: {{ page.weight }};">
+
+          <div class="animation__string js-typed-string">
+
+            {{ content }}
+
+          </div>
+
+        </div>
+
+      </div>
 
     </div>
   </article>
