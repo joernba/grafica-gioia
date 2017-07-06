@@ -6,71 +6,71 @@ permalink: /prodotti/
 layout: page
 date: 2017-07-06T07:44:10.853Z
 images:
-  - img-60.jpg
-  - img-61.jpg
-  - img-62.jpg
-  - img-63.jpg
-  - img-64.jpg
-  - img-65.jpg
-  - img-66.jpg
-  - img-67.jpg
-  - img-01.jpg
-  - img-02.jpg
-  - img-03.jpg
-  - img-04.jpg
-  - img-08.jpg
-  - img-09.jpg
-  - img-10.jpg
-  - img-11.jpg
-  - img-12.jpg
-  - img-13.jpg
-  - img-14.jpg
-  - img-15.jpg
-  - img-16.jpg
-  - img-17.jpg
-  - img-18.jpg
-  - img-19.jpg
-  - img-20.jpg
-  - img-21.jpg
-  - img-22.jpg
-  - img-23.jpg
-  - img-24.jpg
-  - img-25.jpg
-  - img-26.jpg
-  - img-27.jpg
-  - img-28.jpg
-  - img-29.jpg
-  - img-30.jpg
-  - img-31.jpg
-  - img-32.jpg
-  - img-33.jpg
-  - img-34.jpg
-  - img-35.jpg
-  - img-36.jpg
-  - img-37.jpg
-  - img-38.jpg
-  - img-39.jpg
-  - img-40.jpg
-  - img-41.jpg
-  - img-42.jpg
-  - img-43.jpg
-  - img-44.jpg
-  - img-45.jpg
-  - img-46.jpg
-  - img-47.jpg
-  - img-48.jpg
-  - img-49.jpg
-  - img-50.jpg
-  - img-51.jpg
-  - img-06.jpg
-  - img-52.jpg
-  - img-53.jpg
-  - img-54.jpg
-  - img-55.jpg
-  - img-56.jpg
-  - img-57.jpg
-  - img-58.jpg
-  - img-59.jpg
+  - image: img-60.jpg
+  - image: img-61.jpg
+  - image: img-62.jpg
+  - image: img-63.jpg
+  - image: img-64.jpg
+  - image: img-65.jpg
+  - image: img-66.jpg
+  - image: img-67.jpg
+  - image: img-01.jpg
+  - image: img-02.jpg
+  - image: img-03.jpg
+  - image: img-04.jpg
+  - image: img-08.jpg
+  - image: img-09.jpg
+  - image: img-10.jpg
+  - image: img-11.jpg
+  - image: img-12.jpg
+  - image: img-13.jpg
+  - image: img-14.jpg
+  - image: img-15.jpg
+  - image: img-16.jpg
+  - image: img-17.jpg
+  - image: img-18.jpg
+  - image: img-19.jpg
+  - image: img-20.jpg
+  - image: img-21.jpg
+  - image: img-22.jpg
+  - image: img-23.jpg
+  - image: img-24.jpg
+  - image: img-25.jpg
+  - image: img-26.jpg
+  - image: img-27.jpg
+  - image: img-28.jpg
+  - image: img-29.jpg
+  - image: img-30.jpg
+  - image: img-31.jpg
+  - image: img-32.jpg
+  - image: img-33.jpg
+  - image: img-34.jpg
+  - image: img-35.jpg
+  - image: img-36.jpg
+  - image: img-37.jpg
+  - image: img-38.jpg
+  - image: img-39.jpg
+  - image: img-40.jpg
+  - image: img-41.jpg
+  - image: img-42.jpg
+  - image: img-43.jpg
+  - image: img-44.jpg
+  - image: img-45.jpg
+  - image: img-46.jpg
+  - image: img-47.jpg
+  - image: img-48.jpg
+  - image: img-49.jpg
+  - image: img-50.jpg
+  - image: img-51.jpg
+  - image: img-06.jpg
+  - image: img-52.jpg
+  - image: img-53.jpg
+  - image: img-54.jpg
+  - image: img-55.jpg
+  - image: img-56.jpg
+  - image: img-57.jpg
+  - image: img-58.jpg
+  - image: img-59.jpg
 quote: >-
   Rosso luminoso, magenta, scarlatto,<br>pillarbox red, porpora, ciliegio,
   vinaccia...<br>c’è sicuramente un rosso per tutti.
