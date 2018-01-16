@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: git-gateway
   repo: joernba/grafica-gioia # Path to your Github repository
   branch: production # Branch to update (master by default)
 
