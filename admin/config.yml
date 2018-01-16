@@ -13,19 +13,19 @@ collections: # A list of collections the CMS should be able to edit
     create: false # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Indicator", name: "indicator", widget: "string"}
-      - {label: "Quote", name: "quote", widget: "string"}
-      - {label: "Quote Author", name: "quote-author", widget: "string"}
-      - {label: "Color", name: "color", widget: "hidden"}
+      - {label: "Indicator", name: "indicator", widget: "string", required: false}
+      - {label: "Quote", name: "quote", widget: "string", required: false}
+      - {label: "Quote Author", name: "quote-author", widget: "string", required: false}
+      - {label: "Color", name: "color", widget: "hidden", required: false}
 #       - {label: "Images", name: "images", widget: "image", required: false}
       -  name: "images"
          label: "Immagini"
          widget: "list"
          optional: true
          fields:
-          - {label: "Immagine", name: "image", widget: "image"}
+      - {label: "Immagine", name: "image", widget: "image", required: false}
       - {label: "File", name: "file", widget: "file", required: false}
-      - {label: "Permalink", name: "permalink", widget: "hidden"}
-      - {label: "Layout", name: "layout", widget: "hidden"}
-      - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Permalink", name: "permalink", widget: "hidden", required: false}
+      - {label: "Layout", name: "layout", widget: "hidden", required: false}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+      - {label: "Publish Date", name: "date", widget: "datetime", required: false}
