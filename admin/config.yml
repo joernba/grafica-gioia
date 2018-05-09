@@ -23,7 +23,7 @@ collections: # A list of collections the CMS should be able to edit
          widget: "list"
          optional: true
          fields:
-      - {label: "Immagine", name: "image", widget: "image", required: false}
+            - {label: "Immagine", name: "image", widget: "image", required: false}
       - {label: "File", name: "file", widget: "file", required: false}
       - {label: "Permalink", name: "permalink", widget: "hidden", required: false}
       - {label: "Layout", name: "layout", widget: "hidden", required: false}
