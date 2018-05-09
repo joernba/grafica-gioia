@@ -72,7 +72,6 @@ images:
   - image: /img-57.jpg
   - image: /img-58.jpg
   - image: /img-59.jpg
-  - image: /_dev/src/images/pages/uploads/test-img-04.jpg
 permalink: /prodotti/
 layout: page
 date: 2017-07-06T07:44:10.853Z
