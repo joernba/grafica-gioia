@@ -27,7 +27,10 @@ layout: default
 
         </div><div class="col-12 medium-col-24">
 
-            <form name="contact" action="/thank-you" netlify>
+            <form name="contact" netlify-honeypot="bot-field" action="/thank-you" netlify>
+              <p class="u-invisible">
+                <label>Don’t fill this out if you're human: <input name="bot-field"></label>
+              </p>
             <label for="company">Azienda <input type="text" name="company"></label>
             <label for="firstname">Nome <input type="text" name="firstname"></label>
             <label for="lastname">Cognome <input type="text" name="lastname"></label>
