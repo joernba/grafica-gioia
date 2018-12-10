@@ -8,15 +8,60 @@ exclude_from_lists: 1
 exclude_from_nav: 1
 ---
 
+# Privacy Policy
 
-Spettabile Cliente,
+Documento informativo ai sensi e per gli effetti del  D.Lgs. 30 giugno 2003, n. 196 e del GDPR Regolamento Europea n. 2016/679
 
-Ai sensi dell’art. 13 del D.Lg 196/2003, in tema di rispetto al trattamento dei dati personali, il cliente è informato che i suoi dati personali sono trattati dalla Grafica Gioia (titolare del trattamento) ed i suoi collaboratori e/o fornitori per le esecuzioni del rapporto contrattuale. In particolar modo i dati personali potranno essere trattati per le seguenti finalità:
 
-a) gestione della clientela e rilevazione del grado di soddisfazione della stessa, adempimento di obblighi contabili e fiscali, servizi di controllo interno, servizi finanziari, assicurativi e inerenti strumenti di pagamento (valutazione del metodo creditizio), gestione del contenzioso;
+In osservanza di quanto previsto dal D.Lgs. 30 giugno 2003 n. 196 novellato dal D.lgs . 101/2018 e del GDPR Regolamento Europeo n. 2016/679, siamo a fornirVi le dovute informazioni in ordine alle finalità e modalità del trattamento dei Vostri dati personali, nonché l'ambito di comunicazione e diffusione degli stessi, alla natura dei dati in nostro possesso e del loro conferimento.
 
-b) marketing, attività promozionali e pubblicità, mediante elaborazione anche elettronica, consultazione e raffronto con criteri prefissati ed ogni altra opportuna operazione relativa al conseguimento delle predette finalità. Le modalità di trattamento potranno essere altresì telefoniche o postali. Il conseguimento delle finalità in parola potrà avvenire anche per mezzo di trasmissione e comunicazione di dati a terzi, con ciò intendendo tali terzi autorizzati al correlato trattamento dei dati stessi, in quanto incaricati di svolgere o fornire specifici servizi strettamente funzionali all’esecuzione del rapporto contrattuale (anche mediante trattamenti continuativi), quali società di servizi informatici, società che svolgono servizi di pagamento, società di outsourcing, consulenti e liberi professionisti, assicurazioni, fornitori, e soggetti che forniscono informazioni commerciali, il tutto nel rispetto delle disposizioni di legge in materia di sicurezza dei dati. I predetti dati possono essere raccolti sia presso l’interessato sia presso terzi. Il conferimento dei dati richiesti, siano essi in base ad un obbligo di legge ovvero in quanto strettamente funzionali all’esecuzione del rapporto contrattuale, è necessario, e l’eventuale rifiuto di fornirli comporta l’impossibilità di svolgere le attività richieste per la conclusione e per l’esecuzione del contratto. L’utilizzo dei dati per le finalità di cui al punto b) è invece subordinato al consenso dell’ interessato.
+### Finalità del trattamento
 
-In relazione al trattamento dei predetti dati, in base all’art 7 del D.Lg. 196/2003, l’interessato ha diritto di ottenere: la conferma dell’esistente o meno di dati personali che lo riguardano, anche se non ancora registrati, e la loro comunicazione in forma intelligibile; l’indicazione dell’origine dei dati, delle finalità e modalità di trattamento, della logica applicata se si utilizzano strumenti elettronici, degli estremi del titolare e dei responsabili del trattamento, dei soggetti o categorie di soggetti cui i dati possono essere comunicati. Ha inoltre diritto di ottenere l’aggiornamento, la rettificazione e l’integrazione dei dati; la cancellazione, il blocco dei dati trattati in violazione di legge, compresi quelli di cui non è necessaria la conservazione in relazione agli scopi per i quali i dati sono stati raccolti e trattati; l’attestazione che le suddette operazioni siano state comunicate ai terzi interessati.
+I dati sia personali, comuni, particolari già sensibili e giudiziari  riguardanti la Vostra azienda, i legali rappresentanti della stessa, i dipendenti e i collaboratori, che saranno forniti a GRAFICA GIOIA SRL nell’ambito del rapporto intercorrente, verranno da GRAFICA GIOIA SRL stessa trattati per il conseguimento dei fini sociali elencati dallo Statuto.
+I dati verranno inoltre trattati per le necessità amministrative, contabili, finanziarie, fiscali nonché finalità di tipo commerciale, di marketing e promozionali, legate all’operatività dell’azienda, nonché per l’esecuzione di contratti stipulati con società o professionisti esterni o comunque stipulati da GRAFICA GIOIA SRL.
 
-L’interessato ha diritto di opporsi per motivi legittimi al trattamento dei dati personali che lo riguardano.
+### Modalità del trattamento
+
+Il trattamento dei dati per le finalità esposte ha luogo con modalità sia automatizzate, su supporto elettronico o magnetico, sia non automatizzate, su supporto cartaceo, nel rispetto delle regole di riservatezza e di sicurezza previste dalla legge, dai regolamenti conseguenti e da disposizioni interne. 
+
+### Luogo di trattamento
+
+I dati vengono attualmente trattati ed archiviati presso la sede legale, in Cantù (CO), Viale Cesare Cattaneo 8/C, e/o società – o professionisti -  incaricati di svolgere attività tecniche, di sviluppo, gestionali e amministrativo nonché  contabili. 
+
+Natura obbligatoria o facoltativa del conferimento dei dati e conseguenze di un eventuale rifiuto al conferimento
+Il conferimento dei dati è obbligatorio per tutto quanto è richiesto dagli obblighi legali e contrattuali e, pertanto, l'eventuale rifiuto a fornirli in tutto o in parte può dar luogo all'impossibilità, per la Scrivente, di dare esecuzione al contratto o di svolgere correttamente tutti gli adempimenti connessi. 
+
+### Ambito di comunicazione e diffusione
+
+Ferme restando le comunicazioni eseguite in adempimento di obblighi di legge e contrattuali, tutti i dati raccolti ed elaborati potranno essere comunicati in Italia e trasferiti all'estero esclusivamente per le finalità sopra specificate a:
+
+associazioni di imprenditori e imprese, imprese di assicurazione, società convenzionate o con le quali siano stati stipulati contratti per fornire servizi, enti pubblici, organismi ed istituzioni, esclusivamente per il perseguimento delle finalità statutarie, consulenti legali e fiscali e liberi professionisti, enti previdenziali, assistenziali ed altri enti ed istituzioni in genere, Istituti di Credito al fine del corretto adempimento delle necessità amministrative, contabili, finanziarie, fiscali legate all’operatività aziendale, nonché per effettuare operazioni connesse alla formazione.
+
+### Natura del conferimento
+
+Il conferimento dei dati è obbligatorio nella misura in cui è necessario per l'assolvimento di obblighi legali, contrattuali, contabili, fiscali legati all’operatività dell’azienda.
+Restano a vostro carico tutti gli adempimenti verso i vostri dipendenti e/o collaboratori, relativi alla comunicazione e diffusione dei loro dati anche particolari già sensibili o giudiziari in forza del rapporto contrattuale con noi intercorrente.
+L'eventuale non comunicazione, o comunicazione errata, di una delle informazioni obbligatorie, ha come conseguenza emergente l'impossibilità del titolare di garantire la congruità del trattamento stesso rispetto agli obblighi di cui sopra.
+
+### Trasferimento dei dati all’estero
+
+In relazione alla struttura societarie i Suoi dati personali non verranno comunicati a soggetti con sede presso Paesi Terzi non europei. 
+
+### Tempi di conservazione dei dati
+
+I dati forniti verranno conservati presso i nostri archivi secondo i seguenti parametri: per le attività di amministrazione, contabilità, contrattuali e giuslavoristiche, gestione dell'eventuale contenzioso: 10 anni come stabilito per Legge dal disposto dell’art. 2220 C.C., fatti salvi eventuali ritardati pagamenti dei corrispettivi che ne giustifichino il prolungamento. 
+
+### Diritti dell’interessato
+
+Relativamente ai dati personali medesimi Ella potrà esercitare i diritti previsti dal  D.Lgs. n. 196/2003 ed art. 15 e seguenti del GDPR nei limiti ed alle condizioni ivi previste. In caso di sottoscrizione di una qualsiasi forma di consenso al trattamento richiesto dalla società si fa presente che l’interessato può revocarlo in qualsiasi momento, fatto salvi i limiti innanzi descritti. 
+
+### Titolare e Responsabile del trattamento
+
+Il Titolare del trattamento, al quale Lei potrà rivolgersi per far valere i diritti di cui al Codice Privacy  e del Regolamento Europeo, è :
+GRAFICA GIOIA SRL  - Viale Cesare Cattaneo 8/C – 22063 Cantù (CO).
+
+
+In fede.
+
+      
+GRAFICA GIOIA SRL
