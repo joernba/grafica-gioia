@@ -1,10 +1,8 @@
 ---
-layout: calendar
 title: Calendario
+file: /assets/images/medium/calendario_2019.pdf
 permalink: /calendario/
-weight: 10
-file: calendario_gioia_2018.pdf
-sitemap:
-  exclude: 'yes'
-exclude_from_lists: 1
+layout: calendar
+date: 2019-01-22T12:05:33.227Z
 ---
+
