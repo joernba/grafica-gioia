@@ -4,7 +4,7 @@ backend:
   branch: production # Branch to update (master by default)
 
 media_folder: "_dev/src/images/pages/uploads" # Folder where user uploaded files should go
-public_folder: "/assets/images/medium/"
+public_folder: "/assets/images/"
 
 collections: # A list of collections the CMS should be able to edit
   - name: "pages" # Used in routes, ie.: /admin/collections/:slug/edit
