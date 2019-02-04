@@ -10,9 +10,8 @@ permalink: /contatti/
 layout: contact
 date: 2019-02-04T14:54:39.618Z
 ---
-* Grafica Gioia SRL
-* V.LE Cesare Cattaneo 8/C
-* 22063 Cantù (COMO)
-* TEL +39 031 714604
-* FAX +39 031 706673
+* Grafica Gioia srl
+* Viale Cesare Cattaneo 8/C
+* 22063 CANTU' (Como)
+* Tel+39 031714604
 * <mailto:info@graficagioia.it> - graficagioia@tin.it
