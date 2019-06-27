@@ -72,7 +72,8 @@ images:
   - image: /assets/images/img-57.jpg
   - image: /assets/images/img-58.jpg
   - image: /assets/images/img-59.jpg
-  - image: /assets/images/baxter_1.jpg
+  - image: /assets/images/baxter_6.jpg
+file: /assets/images/baxter_6.jpg
 permalink: /prodotti/
 layout: page
 date: 2017-07-06T07:44:10.853Z
