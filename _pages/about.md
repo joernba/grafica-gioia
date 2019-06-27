@@ -4,7 +4,7 @@ indicator: A
 quote: >-
   Una mattina, siccome uno di noi<br>era senza nero, si servì del blu:<br>era
   nato l’impressionismo.
-quote-author: Pierre-Auguste Renoi
+quote-author: Pierre-Auguste Renoir
 color: 'rgb(0, 164, 219)'
 permalink: /azienda/
 layout: page
