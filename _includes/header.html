@@ -5,7 +5,7 @@
         <ul>
           {% for p in pages %}
             {% unless p.exclude_from_nav %}
-              {% if p.file %}
+              {% if p.permalink == '/calendario/' %}
               <li><a target="_blank" href="{{ site.baseurl }}{{ p.file }}">{{ p.title }}</a></li>
               {% else %}
               <li><a{% if p.url == page.url %} class="current"{% endif %} href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a></li>
