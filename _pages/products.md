@@ -31,7 +31,6 @@ images:
   - image: /assets/images/img-17.jpg
   - image: /assets/images/img-18.jpg
   - image: /assets/images/img-19.jpg
-  - image: ''
   - image: /assets/images/img-21.jpg
   - image: /assets/images/img-22.jpg
   - image: /assets/images/img-23.jpg
@@ -42,7 +41,6 @@ images:
   - image: /assets/images/img-28.jpg
   - image: /assets/images/img-29.jpg
   - image: /assets/images/img-30.jpg
-  - image: ''
   - image: /assets/images/img-32.jpg
   - image: /assets/images/img-33.jpg
   - image: /assets/images/img-34.jpg
@@ -52,8 +50,6 @@ images:
   - image: /assets/images/img-38.jpg
   - image: /assets/images/img-39.jpg
   - image: /assets/images/img-40.jpg
-  - image: ''
-  - image: ''
   - image: /assets/images/img-43.jpg
   - image: /assets/images/img-44.jpg
   - image: /assets/images/img-45.jpg
@@ -70,28 +66,11 @@ images:
   - image: /assets/images/img-55.jpg
   - image: /assets/images/img-56.jpg
   - image: /assets/images/img-57.jpg
-  - image: ''
-  - image: ''
   - image: /assets/images/baxter_6.jpg
   - image: /assets/images/baxter_5.jpg
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-file: /assets/images/baxter_6.jpg
 permalink: /prodotti/
 layout: page
+weight: 3
 date: 2017-07-06T07:44:10.853Z
 ---
 Stampati per vari settori merceologici. cataloghi e brochure / libri / volumi d’arte / riviste / monografie e company profile / depliants, volantini e cartoline / listini / immagine coordinata / stampati commerciali / calendari / cartellette box e astucci.

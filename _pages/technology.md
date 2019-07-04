@@ -2,7 +2,7 @@
 layout: page
 title: Tecnologia
 permalink: /tecnologia/
-weight: 3
+weight: 4
 indicator: T
 color: rgb(238, 227, 33)
 quote: "Ci sono pittori che dipingono il sole<br>come una macchia gialla, ma ce ne sono altri<br>che, grazie alla loro arte e intelligenza,<br>trasformano una macchia gialla nel sole."

@@ -8,6 +8,7 @@ quote-author: Theodor Adorno
 color: 'rgb(28, 27, 28)'
 permalink: /contatti/
 layout: contact
+weight: 5
 date: 2019-02-04T14:54:39.618Z
 ---
 * Grafica Gioia srl
