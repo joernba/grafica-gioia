@@ -86,6 +86,9 @@ images:
   - {}
   - {}
   - {}
+  - {}
+  - {}
+  - {}
 file: /assets/images/baxter_6.jpg
 permalink: /prodotti/
 layout: page
