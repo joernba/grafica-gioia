@@ -18,7 +18,7 @@ images:
   - image: /assets/images/helsinki_2.jpg
   - image: /assets/images/helsinki_5.jpg
   - image: /assets/images/helsinki_4.jpg
-  - image: /assets/images/Ahura_2.jpg
+  - image: /assets/images/emmemobili_1.jpg
   - image: /assets/images/img-08.jpg
   - image: /assets/images/bigfoot.jpg
   - image: /assets/images/img-10.jpg
