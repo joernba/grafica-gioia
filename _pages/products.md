@@ -17,10 +17,10 @@ images:
   - image: /assets/images/img-67.jpg
   - image: /assets/images/img-01.jpg
   - image: /assets/images/img-02.jpg
-  - image: /assets/images/img-03.jpg
-  - image: /assets/images/img-04.jpg
+  - image: /assets/images/ento_1.jpg
+  - image: /assets/images/ento_2.jpg
   - image: /assets/images/img-08.jpg
-  - image: /assets/images/img-09.jpg
+  - image: /assets/images/bigfoot.jpg
   - image: /assets/images/img-10.jpg
   - image: /assets/images/img-11.jpg
   - image: /assets/images/img-12.jpg
@@ -53,15 +53,15 @@ images:
   - image: /assets/images/img-43.jpg
   - image: /assets/images/img-44.jpg
   - image: /assets/images/img-45.jpg
-  - image: /assets/images/img-46.jpg
+  - image: ''
   - image: /assets/images/img-47.jpg
   - image: /assets/images/img-48.jpg
   - image: /assets/images/img-49.jpg
   - image: /assets/images/img-50.jpg
   - image: /assets/images/img-51.jpg
   - image: /assets/images/img-06.jpg
-  - image: ''
-  - image: ''
+  - image: /assets/images/etro_2.jpg
+  - image: /assets/images/etro_1.jpg
   - image: /assets/images/img-54.jpg
   - image: /assets/images/img-55.jpg
   - image: /assets/images/img-56.jpg
