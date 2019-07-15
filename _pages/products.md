@@ -89,7 +89,7 @@ images:
   - {}
   - {}
   - {}
-  - {}
+  - image: /assets/images/helsinki_4.jpg
   - image: /assets/images/helsinki_5.jpg
   - image: /assets/images/helsinki_2.jpg
   - image: /assets/images/helsinki_1.jpg
