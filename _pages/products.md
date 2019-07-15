@@ -53,7 +53,7 @@ images:
   - image: /assets/images/etro_2.jpg
   - image: /assets/images/etro_1.jpg
   - image: /assets/images/img-45.jpg
-  - image: /assets/images/Gabel_4.jpg
+  - image: /assets/images/Outdoor_3.jpg
   - image: /assets/images/Outdoor_5.jpg
   - image: /assets/images/Outdoor_1.jpg
   - image: /assets/images/img-18.jpg
