@@ -47,9 +47,9 @@ images:
   - image: /assets/images/img-35.jpg
   - image: /assets/images/img-36.jpg
   - image: /assets/images/img-37.jpg
-  - image: /assets/images/img-38.jpg
-  - image: /assets/images/img-39.jpg
-  - image: /assets/images/img-40.jpg
+  - image: /assets/images/Outdoor_1.jpg
+  - image: /assets/images/Outdoor_5.jpg
+  - image: /assets/images/Outdoor_3.jpg
   - image: /assets/images/img-43.jpg
   - image: /assets/images/img-44.jpg
   - image: /assets/images/img-45.jpg
@@ -70,8 +70,12 @@ images:
   - image: /assets/images/baxter_5.jpg
   - image: /assets/images/baxter_1.jpg
   - image: /assets/images/baxter_2.jpg
-  - {}
   - image: /assets/images/baxter_6.jpg
+  - image: /assets/images/Five_1.jpg
+  - image: /assets/images/Five_3.jpg
+  - image: /assets/images/Five_4.jpg
+  - image: /assets/images/Five_7.jpg
+  - image: /assets/images/Five_6.jpg
   - {}
 permalink: /prodotti/
 layout: page
