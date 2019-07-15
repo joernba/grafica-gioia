@@ -54,7 +54,7 @@ images:
   - image: /assets/images/img-44.jpg
   - image: /assets/images/img-45.jpg
   - image: /assets/images/Gabel_4.jpg
-  - image: /assets/images/img-47.jpg
+  - image: /assets/images/Gabel_3.jpg
   - image: /assets/images/img-48.jpg
   - image: /assets/images/img-49.jpg
   - image: /assets/images/img-50.jpg
