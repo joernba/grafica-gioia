@@ -85,7 +85,7 @@ images:
   - {}
   - {}
   - {}
-  - {}
+  - image: /assets/images/Mandelli_1.jpg
   - image: /assets/images/desalto_3.jpg
   - image: /assets/images/desalto_4.jpg
   - image: /assets/images/desalto_1.jpg
