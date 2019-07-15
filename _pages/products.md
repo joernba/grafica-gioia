@@ -92,7 +92,7 @@ images:
   - {}
   - {}
   - {}
-  - {}
+  - image: /assets/images/img-63.jpg
   - image: /assets/images/img-62.jpg
   - image: /assets/images/img-62.jpg
   - image: /assets/images/img-60.jpg
