@@ -61,7 +61,7 @@ images:
   - image: /assets/images/img-51.jpg
   - image: /assets/images/img-06.jpg
   - image: /assets/images/etro_2.jpg
-  - image: /assets/images/etro_1.jpg
+  - image: /assets/images/img-35.jpg
   - image: /assets/images/img-34.jpg
   - image: /assets/images/Gabel_4.jpg
   - image: /assets/images/Gabel_2.jpg
