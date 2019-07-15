@@ -58,7 +58,7 @@ images:
   - image: /assets/images/ento_1.jpg
   - image: /assets/images/ento_2.jpg
   - image: /assets/images/img-17.jpg
-  - image: /assets/images/img-51.jpg
+  - image: /assets/images/VF_5.jpg
   - image: /assets/images/VF_3.jpg
   - image: /assets/images/VF_1.jpg
   - image: /assets/images/img-35.jpg
