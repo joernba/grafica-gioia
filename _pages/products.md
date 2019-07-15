@@ -57,7 +57,7 @@ images:
   - image: /assets/images/Gabel_3.jpg
   - image: /assets/images/ento_1.jpg
   - image: /assets/images/ento_2.jpg
-  - image: /assets/images/img-50.jpg
+  - image: /assets/images/img-17.jpg
   - image: /assets/images/img-51.jpg
   - image: /assets/images/img-06.jpg
   - image: /assets/images/etro_2.jpg
