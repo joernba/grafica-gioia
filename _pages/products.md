@@ -79,7 +79,7 @@ images:
   - image: /assets/images/img-54.jpg
   - {}
   - {}
-  - {}
+  - image: /assets/images/baxter_6.jpg
   - image: /assets/images/baxter_1.jpg
   - image: /assets/images/baxter_2.jpg
   - image: /assets/images/baxter_3.jpg
