@@ -46,7 +46,7 @@ images:
   - image: /assets/images/img-34.jpg
   - image: /assets/images/img-35.jpg
   - image: /assets/images/Ahura_1.jpg
-  - image: /assets/images/img-37.jpg
+  - image: /assets/images/Ahura_2.jpg
   - image: /assets/images/Outdoor_1.jpg
   - image: /assets/images/Outdoor_5.jpg
   - image: /assets/images/Outdoor_3.jpg
