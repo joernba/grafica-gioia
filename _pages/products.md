@@ -64,7 +64,7 @@ images:
   - image: /assets/images/etro_1.jpg
   - image: /assets/images/img-54.jpg
   - image: /assets/images/img-55.jpg
-  - image: /assets/images/img-56.jpg
+  - image: /assets/images/Gabel_2.jpg
   - image: /assets/images/Ahura_1.jpg
   - image: /assets/images/WLake_1.jpg
   - image: /assets/images/WLake_3.jpg
