@@ -77,6 +77,26 @@ images:
   - image: /assets/images/Five_7.jpg
   - image: /assets/images/Five_6.jpg
   - image: /assets/images/img-54.jpg
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - image: /assets/images/img-61.jpg
 permalink: /prodotti/
 layout: page
 date: 2017-07-06T07:44:10.853Z
