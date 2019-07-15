@@ -82,7 +82,7 @@ images:
   - {}
   - {}
   - {}
-  - {}
+  - image: /assets/images/baxter_3.jpg
   - image: /assets/images/baxter_4.jpg
   - image: /assets/images/Mandelli_2.jpg
   - image: /assets/images/Mandelli_1.jpg
