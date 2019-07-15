@@ -55,8 +55,8 @@ images:
   - image: /assets/images/img-45.jpg
   - image: /assets/images/Gabel_4.jpg
   - image: /assets/images/Gabel_3.jpg
-  - image: /assets/images/img-48.jpg
-  - image: /assets/images/img-49.jpg
+  - image: /assets/images/ento_1.jpg
+  - image: /assets/images/ento_2.jpg
   - image: /assets/images/img-50.jpg
   - image: /assets/images/img-51.jpg
   - image: /assets/images/img-06.jpg
