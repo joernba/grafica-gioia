@@ -77,7 +77,7 @@ images:
   - image: /assets/images/Five_7.jpg
   - image: /assets/images/Five_6.jpg
   - image: /assets/images/img-54.jpg
-  - {}
+  - image: /assets/images/etro_1.jpg
   - image: /assets/images/etro_2.jpg
   - image: /assets/images/baxter_6.jpg
   - image: /assets/images/baxter_1.jpg
