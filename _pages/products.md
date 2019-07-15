@@ -33,8 +33,8 @@ images:
   - image: /assets/images/img-19.jpg
   - image: /assets/images/img-21.jpg
   - image: /assets/images/WLake_4.jpg
-  - image: /assets/images/img-23.jpg
-  - image: /assets/images/img-24.jpg
+  - image: /assets/images/WLake_2.jpg
+  - image: /assets/images/WLake_3.jpg
   - image: /assets/images/img-25.jpg
   - image: /assets/images/img-26.jpg
   - image: /assets/images/img-27.jpg
