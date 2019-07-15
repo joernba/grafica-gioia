@@ -67,7 +67,7 @@ images:
   - image: /assets/images/img-56.jpg
   - image: /assets/images/img-57.jpg
   - image: /assets/images/baxter_6.jpg
-  - image: /assets/images/baxter_5.jpg
+  - image: /assets/images/WLake_3.jpg
   - image: /assets/images/img-43.jpg
   - image: /assets/images/img-10.jpg
   - image: /assets/images/img-51.jpg
