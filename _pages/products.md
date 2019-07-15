@@ -73,7 +73,7 @@ images:
   - image: /assets/images/baxter_6.jpg
   - image: /assets/images/Five_1.jpg
   - image: /assets/images/Five_3.jpg
-  - image: /assets/images/Five_4.jpg
+  - image: /assets/images/Five_5.jpg
   - image: /assets/images/Five_7.jpg
   - image: /assets/images/Five_6.jpg
   - image: /assets/images/Five_2.jpg
