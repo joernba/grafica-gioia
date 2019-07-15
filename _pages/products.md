@@ -60,17 +60,18 @@ images:
   - image: /assets/images/img-50.jpg
   - image: /assets/images/img-51.jpg
   - image: /assets/images/img-06.jpg
-  - image: /assets/images/img-52.jpg
-  - image: /assets/images/img-53.jpg
+  - image: ''
+  - image: ''
   - image: /assets/images/img-54.jpg
   - image: /assets/images/img-55.jpg
   - image: /assets/images/img-56.jpg
   - image: /assets/images/img-57.jpg
   - image: /assets/images/baxter_6.jpg
   - image: /assets/images/baxter_5.jpg
+  - image: /assets/images/baxter_1.jpg
+  - image: /assets/images/baxter_2.jpg
 permalink: /prodotti/
 layout: page
-weight: 3
 date: 2017-07-06T07:44:10.853Z
 ---
 Stampati per vari settori merceologici. cataloghi e brochure / libri / volumi d’arte / riviste / monografie e company profile / depliants, volantini e cartoline / listini / immagine coordinata / stampati commerciali / calendari / cartellette box e astucci.
