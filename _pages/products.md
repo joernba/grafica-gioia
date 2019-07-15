@@ -38,9 +38,9 @@ images:
   - image: /assets/images/VF_1.jpg
   - image: /assets/images/VF_3.jpg
   - image: /assets/images/VF_2.jpg
-  - image: /assets/images/img-28.jpg
-  - image: /assets/images/img-29.jpg
-  - image: /assets/images/img-30.jpg
+  - image: /assets/images/img-50.jpg
+  - image: /assets/images/img-51.jpg
+  - image: /assets/images/img-10.jpg
   - image: /assets/images/img-32.jpg
   - image: /assets/images/img-33.jpg
   - image: /assets/images/img-34.jpg
