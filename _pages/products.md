@@ -31,7 +31,7 @@ images:
   - image: /assets/images/baxter_4.jpg
   - image: /assets/images/baxter_2.jpg
   - image: /assets/images/baxter_1.jpg
-  - image: /assets/images/img-21.jpg
+  - image: /assets/images/baxter_6.jpg
   - image: /assets/images/WLake_4.jpg
   - image: /assets/images/WLake_1.jpg
   - image: /assets/images/WLake_3.jpg
