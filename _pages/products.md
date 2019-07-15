@@ -28,7 +28,7 @@ images:
   - image: /assets/images/img-12.jpg
   - image: /assets/images/Ahura_1.jpg
   - image: /assets/images/Ahura_2.jpg
-  - image: /assets/images/img-17.jpg
+  - image: /assets/images/baxter_4.jpg
   - image: /assets/images/img-18.jpg
   - image: /assets/images/img-19.jpg
   - image: /assets/images/img-21.jpg
