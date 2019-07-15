@@ -32,7 +32,7 @@ images:
   - image: /assets/images/img-18.jpg
   - image: /assets/images/img-19.jpg
   - image: /assets/images/img-21.jpg
-  - image: /assets/images/img-22.jpg
+  - image: /assets/images/WLake_4.jpg
   - image: /assets/images/img-23.jpg
   - image: /assets/images/img-24.jpg
   - image: /assets/images/img-25.jpg
