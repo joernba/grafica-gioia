@@ -94,7 +94,7 @@ images:
   - {}
   - {}
   - {}
-  - {}
+  - image: /assets/images/img-62.jpg
   - image: /assets/images/img-60.jpg
   - image: /assets/images/img-61.jpg
 permalink: /prodotti/
