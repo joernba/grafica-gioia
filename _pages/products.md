@@ -23,7 +23,7 @@ images:
   - image: /assets/images/bigfoot.jpg
   - image: /assets/images/desalto_1.jpg
   - image: /assets/images/desalto_4.jpg
-  - image: /assets/images/img-12.jpg
+  - image: /assets/images/desalto_3.jpg
   - image: /assets/images/img-13.jpg
   - image: /assets/images/img-14.jpg
   - image: /assets/images/img-15.jpg
