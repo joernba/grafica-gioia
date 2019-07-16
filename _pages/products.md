@@ -27,7 +27,7 @@ images:
   - image: /assets/images/img-13.jpg
   - image: /assets/images/img-12.jpg
   - image: /assets/images/Ahura_1.jpg
-  - image: /assets/images/Ahura_2.jpg
+  - image: /assets/images/img-09.jpg
   - image: /assets/images/img-11.jpg
   - image: /assets/images/img-49.jpg
   - image: /assets/images/img-48.jpg
