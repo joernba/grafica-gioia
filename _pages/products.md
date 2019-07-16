@@ -12,7 +12,7 @@ images:
   - image: /assets/images/img-62.jpg
   - image: /assets/images/img-63.jpg
   - image: /assets/images/Mandelli_1.jpg
-  - image: /assets/images/Mandelli_2.jpg
+  - image: /assets/images/img-31.jpg
   - image: /assets/images/img-29.jpg
   - image: /assets/images/img-47.jpg
   - image: /assets/images/img-27.jpg
