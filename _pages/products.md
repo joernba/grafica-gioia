@@ -44,7 +44,7 @@ images:
   - image: /assets/images/img-32.jpg
   - image: /assets/images/img-33.jpg
   - image: /assets/images/img-34.jpg
-  - image: /assets/images/img-35.jpg
+  - image: /assets/images/nava_1.jpg
   - image: /assets/images/Ahura_2.jpg
   - image: /assets/images/Ahura_1.jpg
   - image: /assets/images/Mandelli_3.jpg
