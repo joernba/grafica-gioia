@@ -49,7 +49,7 @@ images:
   - image: /assets/images/img-43.jpg
   - image: /assets/images/Outdoor_1.jpg
   - image: /assets/images/Outdoor_5.jpg
-  - image: /assets/images/Outdoor_3.jpg
+  - image: /assets/images/bigfoot.jpg
   - image: /assets/images/emmemobili_1.jpg
   - image: /assets/images/emmemobili_3.jpg
   - image: /assets/images/emmemobili_2.jpg
