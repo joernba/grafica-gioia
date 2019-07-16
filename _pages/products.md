@@ -26,7 +26,7 @@ images:
   - image: /assets/images/desalto_3.jpg
   - image: /assets/images/img-13.jpg
   - image: /assets/images/img-12.jpg
-  - image: /assets/images/Ahura_1.jpg
+  - image: /assets/images/img-13.jpg
   - image: /assets/images/img-09.jpg
   - image: /assets/images/img-11.jpg
   - image: /assets/images/img-49.jpg
