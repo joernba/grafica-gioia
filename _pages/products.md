@@ -49,7 +49,7 @@ images:
   - image: /assets/images/Ahura_1.jpg
   - image: /assets/images/VF_2.jpg
   - image: /assets/images/Mandelli_3.jpg
-  - image: /assets/images/bigfoot.jpg
+  - image: /assets/images/img-01.jpg
   - image: /assets/images/ento_2.jpg
   - image: /assets/images/bigfoot.jpg
   - image: /assets/images/emmemobili_2.jpg
