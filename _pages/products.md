@@ -48,7 +48,7 @@ images:
   - image: /assets/images/Ahura_2.jpg
   - image: /assets/images/Ahura_1.jpg
   - image: /assets/images/Mandelli_3.jpg
-  - image: /assets/images/Outdoor_5.jpg
+  - image: /assets/images/Mandelli_3.jpg
   - image: /assets/images/bigfoot.jpg
   - image: /assets/images/emmemobili_1.jpg
   - image: /assets/images/emmemobili_3.jpg
