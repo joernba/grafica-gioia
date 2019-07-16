@@ -47,7 +47,7 @@ images:
   - image: /assets/images/nava_1.jpg
   - image: /assets/images/Ahura_2.jpg
   - image: /assets/images/Ahura_1.jpg
-  - image: /assets/images/Mandelli_3.jpg
+  - image: /assets/images/VF_2.jpg
   - image: /assets/images/Mandelli_3.jpg
   - image: /assets/images/bigfoot.jpg
   - image: /assets/images/emmemobili_1.jpg
@@ -57,7 +57,7 @@ images:
   - image: /assets/images/Outdoor_5.jpg
   - image: /assets/images/Outdoor_1.jpg
   - image: /assets/images/img-18.jpg
-  - image: /assets/images/img-17.jpg
+  - image: /assets/images/VF_2.jpg
   - image: /assets/images/VF_5.jpg
   - image: /assets/images/VF_3.jpg
   - image: /assets/images/VF_1.jpg
