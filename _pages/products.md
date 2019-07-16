@@ -46,7 +46,7 @@ images:
   - image: /assets/images/img-34.jpg
   - image: /assets/images/img-35.jpg
   - image: /assets/images/nava_1.jpg
-  - image: /assets/images/img-43.jpg
+  - image: /assets/images/Ahura_1.jpg
   - image: /assets/images/Mandelli_3.jpg
   - image: /assets/images/Outdoor_5.jpg
   - image: /assets/images/bigfoot.jpg
