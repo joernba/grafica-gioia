@@ -47,7 +47,7 @@ images:
   - image: /assets/images/nava_1.jpg
   - image: /assets/images/Ahura_2.jpg
   - image: /assets/images/Ahura_1.jpg
-  - image: /assets/images/VF_2.jpg
+  - image: /assets/images/img-08.jpg
   - image: /assets/images/img-02.jpg
   - image: /assets/images/img-01.jpg
   - image: /assets/images/ento_2.jpg
