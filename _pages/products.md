@@ -37,7 +37,7 @@ images:
   - image: /assets/images/WLake_3.jpg
   - image: /assets/images/VF_1.jpg
   - image: /assets/images/VF_3.jpg
-  - image: /assets/images/VF_5.jpg
+  - image: /assets/images/img-65.jpg
   - image: /assets/images/img-19.jpg
   - image: /assets/images/img-18.jpg
   - image: /assets/images/img-17.jpg
