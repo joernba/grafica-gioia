@@ -31,7 +31,7 @@ images:
   - image: /assets/images/baxter_4.jpg
   - image: /assets/images/baxter_2.jpg
   - image: /assets/images/baxter_1.jpg
-  - image: /assets/images/baxter_6.jpg
+  - image: /assets/images/img-67.jpg
   - image: /assets/images/img-54.jpg
   - image: /assets/images/img-57.jpg
   - image: /assets/images/img-56.jpg
