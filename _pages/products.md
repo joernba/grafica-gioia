@@ -9,7 +9,7 @@ color: 'rgb(215, 2, 132)'
 images:
   - image: /assets/images/img-60.jpg
   - image: /assets/images/img-61.jpg
-  - image: /assets/images/img-62.jpg
+  - image: /assets/images/img-41.jpg
   - image: /assets/images/img-52.jpg
   - image: /assets/images/img-25.jpg
   - image: /assets/images/img-31.jpg
