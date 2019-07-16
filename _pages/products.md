@@ -65,7 +65,7 @@ images:
   - image: /assets/images/img-34.jpg
   - image: /assets/images/Gabel_4.jpg
   - image: /assets/images/Gabel_2.jpg
-  - image: /assets/images/WLake_4.jpg
+  - image: /assets/images/WLake_2.jpg
   - image: /assets/images/WLake_1.jpg
   - image: /assets/images/WLake_3.jpg
   - image: /assets/images/img-43.jpg
