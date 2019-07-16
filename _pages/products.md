@@ -22,7 +22,7 @@ images:
   - image: /assets/images/emmemobili_2.jpg
   - image: /assets/images/bigfoot.jpg
   - image: /assets/images/desalto_1.jpg
-  - image: /assets/images/desalto_4.jpg
+  - image: /assets/images/img-39.jpg
   - image: /assets/images/img-28.jpg
   - image: /assets/images/img-45.jpg
   - image: /assets/images/img-44.jpg
