@@ -39,7 +39,7 @@ images:
   - image: /assets/images/VF_3.jpg
   - image: /assets/images/VF_5.jpg
   - image: /assets/images/img-50.jpg
-  - image: /assets/images/img-51.jpg
+  - image: /assets/images/img-18.jpg
   - image: /assets/images/img-17.jpg
   - image: /assets/images/img-32.jpg
   - image: /assets/images/img-33.jpg
