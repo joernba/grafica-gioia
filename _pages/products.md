@@ -15,7 +15,7 @@ images:
   - image: /assets/images/Mandelli_2.jpg
   - image: /assets/images/Mandelli_3.jpg
   - image: /assets/images/helsinki_1.jpg
-  - image: /assets/images/helsinki_2.jpg
+  - image: /assets/images/img-27.jpg
   - image: /assets/images/img-23.jpg
   - image: /assets/images/img-22.jpg
   - image: /assets/images/img-04.jpg
