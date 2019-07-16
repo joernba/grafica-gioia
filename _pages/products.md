@@ -19,7 +19,7 @@ images:
   - image: /assets/images/helsinki_5.jpg
   - image: /assets/images/helsinki_4.jpg
   - image: /assets/images/emmemobili_1.jpg
-  - image: /assets/images/emmemobili_2.jpg
+  - image: /assets/images/img-36.jpg
   - image: /assets/images/img-16.jpg
   - image: /assets/images/img-15.jpg
   - image: /assets/images/img-39.jpg
