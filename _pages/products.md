@@ -1,11 +1,10 @@
 ---
 title: Prodotti
 indicator: P
-quote: >-
-  Rosso luminoso, magenta, scarlatto,<br>pillarbox red, porpora, ciliegio,
+quote: Rosso luminoso, magenta, scarlatto,<br>pillarbox red, porpora, ciliegio,
   vinaccia...<br>c’è sicuramente un rosso per tutti.
 quote-author: Christian Dior
-color: 'rgb(215, 2, 132)'
+color: rgb(215, 2, 132)
 images:
   - image: /assets/images/img-59.jpg
   - image: /assets/images/img-58.jpg
@@ -101,6 +100,6 @@ permalink: /prodotti/
 layout: page
 date: 2017-07-06T07:44:10.853Z
 ---
-Stampati per vari settori merceologici. cataloghi e brochure / libri / volumi d’arte / riviste / monografie e company profile / depliants, volantini e cartoline / listini / immagine coordinata / stampati commerciali / calendari / cartellette box e astucci.
+Stampati per diversi settori merceologici. cataloghi e brochure / libri / volumi d’arte / riviste / monografie e company profile / depliants, volantini e cartoline / listini tecnici / immagine coordinata / stampati commerciali / calendari / cartellette box e astucci / cartotecnica
 
 Una selezione di lavori curati nei minimi dettagli, con anche particolari lavorazioni di nobilitazione.
