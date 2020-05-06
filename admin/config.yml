@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
   repo: joernba/grafica-gioia # Path to your Github repository
-  branch: production # Branch to update (master by default)
+  branch: master # Branch to update (master by default)
 
 media_folder: "_dev/src/images/pages/uploads" # Folder where user uploaded files should go
 public_folder: "/assets/images/"
