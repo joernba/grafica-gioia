@@ -21,7 +21,6 @@ images:
   - image: /assets/images/img-13.jpg
   - image: /assets/images/img-49.jpg
   - image: /assets/images/img-48.jpg
-  - image: /assets/images/img-67.jpg
   - image: /assets/images/img-54.jpg
   - image: /assets/images/img-57.jpg
   - image: /assets/images/img-56.jpg
@@ -109,11 +108,11 @@ images:
   - image: /assets/images/simmons_2.jpg
   - image: /assets/images/simmons_3.jpg
   - image: /assets/images/simmons_4.jpg
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
+  - image: /assets/images/mandelli2021_2.jpg
+  - image: /assets/images/mandelli2021_1.jpg
+  - image: /assets/images/tecnoinox_2.jpg
+  - image: /assets/images/homescapes_2.jpg
+  - image: /assets/images/homescapes_1.jpg
   - {}
 permalink: /prodotti/
 layout: page
