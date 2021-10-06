@@ -98,6 +98,33 @@ images:
   - image: /assets/images/img-61.jpg
   - image: /assets/images/gamma_x_2.jpg
   - image: /assets/images/gamma_x_3.jpg
+  - image: /assets/images/homescapes_3.jpg
+  - image: /assets/images/ceppi_1.jpg
+  - image: /assets/images/ceppi_4.jpg
+  - image: /assets/images/jgp_1.jpg
+  - image: /assets/images/jgp_2.jpg
+  - image: /assets/images/barovier_1.jpg
+  - image: /assets/images/barovier_2.jpg
+  - image: /assets/images/barovier_3.jpg
+  - image: /assets/images/fioroni_1.jpg
+  - image: /assets/images/fioroni_3.jpg
+  - image: /assets/images/ferre_1.jpg
+  - image: /assets/images/ferre_2.jpg
+  - image: /assets/images/torri_1.jpg
+  - image: /assets/images/torri_2.jpg
+  - image: /assets/images/torri_3.jpg
+  - image: /assets/images/atmosphera_1.jpg
+  - image: /assets/images/atmosphera_2.jpg
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
 permalink: /prodotti/
 layout: page
 date: 2021-10-06T08:35:50.093Z
