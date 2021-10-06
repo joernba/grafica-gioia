@@ -6,28 +6,19 @@ quote: Rosso luminoso, magenta, scarlatto,<br>pillarbox red, porpora, ciliegio,
 quote-author: Christian Dior
 color: rgb(215, 2, 132)
 images:
-  - image: /assets/images/img-59.jpg
-  - image: /assets/images/img-58.jpg
-  - image: /assets/images/img-41.jpg
   - image: /assets/images/img-52.jpg
-  - image: /assets/images/img-25.jpg
   - image: /assets/images/img-31.jpg
   - image: /assets/images/img-29.jpg
-  - image: /assets/images/img-47.jpg
   - image: /assets/images/img-27.jpg
   - image: /assets/images/img-23.jpg
   - image: /assets/images/img-22.jpg
-  - image: /assets/images/img-04.jpg
   - image: /assets/images/img-36.jpg
   - image: /assets/images/img-16.jpg
   - image: /assets/images/img-15.jpg
-  - image: /assets/images/img-39.jpg
   - image: /assets/images/img-28.jpg
   - image: /assets/images/img-45.jpg
   - image: /assets/images/img-44.jpg
   - image: /assets/images/img-13.jpg
-  - image: /assets/images/img-09.jpg
-  - image: /assets/images/img-11.jpg
   - image: /assets/images/img-49.jpg
   - image: /assets/images/img-48.jpg
   - image: /assets/images/img-67.jpg
@@ -54,7 +45,6 @@ images:
   - image: /assets/images/emmemobili_2.jpg
   - image: /assets/images/Outdoor_3.jpg
   - image: /assets/images/Outdoor_5.jpg
-  - image: /assets/images/Outdoor_1.jpg
   - image: /assets/images/img-21.jpg
   - image: /assets/images/VF_2.jpg
   - image: /assets/images/VF_5.jpg
