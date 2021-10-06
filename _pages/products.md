@@ -115,10 +115,10 @@ images:
   - image: /assets/images/torri_3.jpg
   - image: /assets/images/atmosphera_1.jpg
   - image: /assets/images/atmosphera_2.jpg
-  - {}
-  - {}
-  - {}
-  - {}
+  - image: /assets/images/simmons_1.jpg
+  - image: /assets/images/simmons_2.jpg
+  - image: /assets/images/simmons_3.jpg
+  - image: /assets/images/simmons_4.jpg
   - {}
   - {}
   - {}
