@@ -96,6 +96,7 @@ images:
   - image: /assets/images/img-62.jpg
   - image: /assets/images/img-60.jpg
   - image: /assets/images/img-61.jpg
+  - image: /assets/images/gamma_x_2.jpg
 permalink: /prodotti/
 layout: page
 date: 2017-07-06T07:44:10.853Z
