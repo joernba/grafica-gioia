@@ -113,11 +113,11 @@ images:
   - image: /assets/images/tecnoinox_2.jpg
   - image: /assets/images/homescapes_2.jpg
   - image: /assets/images/homescapes_1.jpg
-  - {}
 permalink: /prodotti/
 layout: page
 date: 2021-10-06T08:35:50.093Z
 ---
+
 Stampati per diversi settori merceologici. cataloghi e brochure / libri / volumi d’arte / riviste / monografie e company profile / depliants, volantini e cartoline / listini tecnici / immagine coordinata / stampati commerciali / calendari / cartellette box e astucci / cartotecnica
 
 Una selezione di lavori curati nei minimi dettagli, con anche particolari lavorazioni di nobilitazione.
