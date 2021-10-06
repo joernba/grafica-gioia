@@ -97,9 +97,10 @@ images:
   - image: /assets/images/img-60.jpg
   - image: /assets/images/img-61.jpg
   - image: /assets/images/gamma_x_2.jpg
+  - image: /assets/images/gamma_x_3.jpg
 permalink: /prodotti/
 layout: page
-date: 2017-07-06T07:44:10.853Z
+date: 2021-10-06T08:35:50.093Z
 ---
 Stampati per diversi settori merceologici. cataloghi e brochure / libri / volumi d’arte / riviste / monografie e company profile / depliants, volantini e cartoline / listini tecnici / immagine coordinata / stampati commerciali / calendari / cartellette box e astucci / cartotecnica
 
