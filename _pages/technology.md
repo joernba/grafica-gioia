@@ -11,4 +11,4 @@ layout: page
 date: 2020-04-14T09:02:00.687Z
 weight: 4
 ---
-Investimenti continui sempre mirati all’innovazione e riguardo verso l'ambiente, con l'utilizzo di carte certificate provenienti da ambienti rinnovabili, inchiostri ecologici a base vegetale e vernici acriliche a base d'acqua. Offriamo al cliente le migliori soluzioni per scelta di supporti, tecnologia di stampa, lavorazioni speciali e finiture.
+Investimenti continui sempre mirati all’innovazione e qualità, riguardo verso l'ambiente, con l'utilizzo di carte certificate provenienti da ambienti rinnovabili, inchiostri ecologici a base vegetale e vernici acriliche a base d'acqua. Offriamo al cliente le migliori soluzioni per scelta di supporti, tecnologia di stampa, lavorazioni speciali e finiture.
